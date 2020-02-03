@@ -1,4 +1,4 @@
-# UKC Maribor - Anestezija: Standardni operativni postopki
+# UKC Maribor - Anestezija
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -8,7 +8,8 @@
 <!--[![Travis Build Status](https://travis-ci.com/ane-ukcmb/SOP.svg?branch=master)](https://travis-ci.com/ane-ukcmb/SOP) -->
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
-## Manuscript description
+## Standardni operativni postopki
 
 Spletna verzija je dosegljiva tukaj: https://ane-ukcmb.github.io/SOP/
+
 pdf: https://ane-ukcmb.github.io/SOP/manuscript.pdf
