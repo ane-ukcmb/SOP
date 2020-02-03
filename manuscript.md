@@ -54,11 +54,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://ane-ukcmb.github.io/SOP/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://ane-ukcmb.github.io/SOP/v/a0f9cf3bcbd16fb4104a3f0255f7b1850bb80056/" />
+  <link rel="alternate" type="text/html" href="https://ane-ukcmb.github.io/SOP/v/2bf71db8f8ee087746b93a6513a3d94a5b1b5c68/" />
 
-  <meta name="manubot_html_url_versioned" content="https://ane-ukcmb.github.io/SOP/v/a0f9cf3bcbd16fb4104a3f0255f7b1850bb80056/" />
+  <meta name="manubot_html_url_versioned" content="https://ane-ukcmb.github.io/SOP/v/2bf71db8f8ee087746b93a6513a3d94a5b1b5c68/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://ane-ukcmb.github.io/SOP/v/a0f9cf3bcbd16fb4104a3f0255f7b1850bb80056/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://ane-ukcmb.github.io/SOP/v/2bf71db8f8ee087746b93a6513a3d94a5b1b5c68/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -90,9 +90,9 @@ title: Standardni Operativni Postopki
 
 <small><em>
 This manuscript
-([permalink](https://ane-ukcmb.github.io/SOP/v/a0f9cf3bcbd16fb4104a3f0255f7b1850bb80056/))
+([permalink](https://ane-ukcmb.github.io/SOP/v/2bf71db8f8ee087746b93a6513a3d94a5b1b5c68/))
 was automatically generated
-from [ane-ukcmb/SOP@a0f9cf3](https://github.com/ane-ukcmb/SOP/tree/a0f9cf3bcbd16fb4104a3f0255f7b1850bb80056)
+from [ane-ukcmb/SOP@2bf71db](https://github.com/ane-ukcmb/SOP/tree/2bf71db8f8ee087746b93a6513a3d94a5b1b5c68)
 on February 3, 2020.
 </em></small>
 
