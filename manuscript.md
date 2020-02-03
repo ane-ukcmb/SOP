@@ -42,8 +42,6 @@ header-includes: '<!--
 
   <meta name="citation_author_institution" content="Oddelek za anesteziologijo UKC Maribor" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-
   <link rel="canonical" href="https://ane-ukcmb.github.io/SOP/" />
 
   <meta property="og:url" content="https://ane-ukcmb.github.io/SOP/" />
@@ -56,11 +54,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://ane-ukcmb.github.io/SOP/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://ane-ukcmb.github.io/SOP/v/e1fad66bc6c95ba4e2b42010532bff48e3c0baf6/" />
+  <link rel="alternate" type="text/html" href="https://ane-ukcmb.github.io/SOP/v/d22694630b665103117410f946f576fc9a1a4b7c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://ane-ukcmb.github.io/SOP/v/e1fad66bc6c95ba4e2b42010532bff48e3c0baf6/" />
+  <meta name="manubot_html_url_versioned" content="https://ane-ukcmb.github.io/SOP/v/d22694630b665103117410f946f576fc9a1a4b7c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://ane-ukcmb.github.io/SOP/v/e1fad66bc6c95ba4e2b42010532bff48e3c0baf6/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://ane-ukcmb.github.io/SOP/v/d22694630b665103117410f946f576fc9a1a4b7c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -92,9 +90,9 @@ title: Standardni Operativni Postopki
 
 <small><em>
 This manuscript
-([permalink](https://ane-ukcmb.github.io/SOP/v/e1fad66bc6c95ba4e2b42010532bff48e3c0baf6/))
+([permalink](https://ane-ukcmb.github.io/SOP/v/d22694630b665103117410f946f576fc9a1a4b7c/))
 was automatically generated
-from [ane-ukcmb/SOP@e1fad66](https://github.com/ane-ukcmb/SOP/tree/e1fad66bc6c95ba4e2b42010532bff48e3c0baf6)
+from [ane-ukcmb/SOP@d226946](https://github.com/ane-ukcmb/SOP/tree/d22694630b665103117410f946f576fc9a1a4b7c)
 on February 3, 2020.
 </em></small>
 
@@ -103,8 +101,6 @@ on February 3, 2020.
 
 
 + **Domen Kogler**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [domenkogler](https://github.com/domenkogler)<br>
   <small>
